@@ -8,6 +8,9 @@ A falta de atualização de modelos de aprendizado de máquina em sistemas conve
 
 #### Diagrama de Blocos
 
+![diagram](diagram.png)
+
+
 A proposta de solução pode ser estruturada em um diagrama de blocos com os seguintes componentes:
 
 1. **Módulo de Monitoramento de Dados**: Coleta todas as interações dos usuários e registra dados para futuras análises.
